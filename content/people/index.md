@@ -64,8 +64,6 @@ sections:
       spacing:
         padding: [0, "1rem", 0, "1rem"]
 
-
-sections:
   - block: people
     content:
       title: Meet the Team
