@@ -4,7 +4,26 @@ type: landing
 
 design:
   spacing: "6rem"
-  
+
+  ---
+
+## Why Hugo Blox?
+
+- **Launch in Minutes, Not Months:** Pick a template, customize with drag-and-drop blocks, and deploy. Build anything from SaaS landing pages and online courses to academic resumés and lab sites.
+- **Own Your Content & Brand:** You get static files with no vendor lock-in, leading to 100/100 Lighthouse scores. Your content, your rules.
+- **Built for a Technical Workflow:** A modern stack with Hugo and Tailwind CSS. Write in Markdown, Jupyter, or BibTeX. Auto-sync publications.
+- **Open & Extendable:** Start with a generous MIT-licensed core. Upgrade with premium templates and blocks or extend with React "islands" for custom interactivity.
+
+<p align="center">
+  <img src="./.github/media/templates.webp" alt="Template previews" width="900">
+</p>
+
+<p align="center">
+  <a href="https://hugoblox.com/templates?utm_source=github&utm_medium=readme"><b>Browse Templates →</b></a>
+</p>
+
+---
+
 sections:
   - block: hero
     content:
