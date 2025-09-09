@@ -5,8 +5,6 @@ type: landing
 design:
   spacing: "6rem"
 
----
-
 sections:
   - block: hero
     content:
